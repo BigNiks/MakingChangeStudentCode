@@ -1,9 +1,10 @@
 Name: YOUR NAME HERE
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   |     Time     |                                                                                                                                                                                                                                                                                                                                                        Update |
+|:-------|:------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Jan 23 | 3:30-4:30 PM |                                                                       I honestly don't have much of an idea of where to go with this problem set. At first, I had lowkey thought of using something like an adjacency matrix to keep track of combinations of coins I had already used. Pretty much spent the whole class just brainstorming on a google doc. |
+| Jan 27 | 8:55-9:55 AM |                          I talked it out with some of my classmates and we came up with the idea to try and approach this problem by trying to exclude some coins when figuring out combinations. For example, turning coins(10, {5,1,4} into coins(19,{1,4}. I don't know where I would store the visited values but I was thinking of something like a TST. |
+| Jan 28 |    2-3 PM    | So the hint I got from Mr. Blick was that instead of excluding we should try including. I spent this class time trying to pseudocode and then finally actually coding out the recursive algorithm. I also changed my TST to an array list since I think it would be easier to keep track of, but I haven't figured out how to keep track of certain patterns. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
